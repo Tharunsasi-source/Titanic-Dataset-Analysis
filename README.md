@@ -1,9 +1,9 @@
-📌 Project Overview
+** Project Overview**
 
 This project focuses on analyzing the famous Titanic dataset, which contains passenger information from the RMS Titanic disaster of 1912.
 The analysis aims to uncover patterns and factors that influenced passenger survival using data analysis techniques.
 
-🎯 Objective
+**Objective**
 
 The main objectives of this project are:
 
@@ -15,7 +15,7 @@ Identify factors affecting survival
 
 Generate meaningful insights through visualization
 
-📊 Dataset Description
+**Dataset Description**
 
 The dataset includes passenger-related features such as:
 
@@ -51,12 +51,12 @@ Matplotlib / Seaborn – Data visualization
 
 Jupyter Notebook / VS Code
 
-🔎 Steps Performed
-✅ Data Import
+_ Steps Performed_
+_ Data Import_
 
 The dataset was loaded from a CSV/Excel file using Pandas.
 
-✅ Data Cleaning
+** Data Cleaning**
 
 Handled missing values (Age, Embarked, Cabin)
 
@@ -64,7 +64,7 @@ Checked data types and structure
 
 Removed or transformed unnecessary data
 
-✅ Exploratory Data Analysis (EDA)
+** Exploratory Data Analysis (EDA)**
 
 Analyzed relationships between survival and:
 
@@ -78,11 +78,11 @@ Fare
 
 Family size
 
-✅ Visualization
+** Visualization**
 
 Created charts to better understand patterns and trends.
 
-📈 Key Insights
+** Key Insights**
 
 Female passengers had higher survival rates
 
@@ -92,11 +92,11 @@ Children had better survival chances
 
 Higher fare correlated with higher survival probability
 
-✅ Conclusion
+** Conclusion**
 
 The analysis highlights how demographic and socio-economic factors influenced survival outcomes.
 This project demonstrates the importance of data cleaning, exploration, and visualization in extracting meaningful insights.
 
-👨‍💻 Author
+** Author**
 
 S.Tharun sasi
